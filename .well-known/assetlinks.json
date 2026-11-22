@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.eletricistaleandropg.twa",
+    "sha256_cert_fingerprints": [
+      "B6:31:41:04:C0:4B:08:B3:CC:84:0F:F5:55:FF:0C:C5:EA:09:F3:E0:78:6E:33:2D:B6:E0:BE:78:69:8D:4F:7B"
+    ]
+  }
+}]
